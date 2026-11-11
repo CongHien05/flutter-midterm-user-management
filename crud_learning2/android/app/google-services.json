@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220220843023",
+    "project_id": "flutter-midterm-c2227",
+    "storage_bucket": "flutter-midterm-c2227.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220220843023:android:62118498d309b69e4caf7a",
+        "android_client_info": {
+          "package_name": "com.example.crud_learning2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhT9_3WAseLpE4HD-bntmwOXjnbQqZFWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
